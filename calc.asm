@@ -1,6 +1,5 @@
-;; Proyecto calculador
+;; Autores originales
 ;; Alfonso Reyes Cortés y Oscar Oswaldo León Meza
-;; Viva la Mexico
 .MODEL medium
 .STACK 100
 ORG 100h
